@@ -1,0 +1,57 @@
+body {
+    background-color: #272727;
+    border: 5px solid green;
+    padding: 40px;
+    margin: 45px;
+	font-family: calibri;
+}
+
+introtext {
+	font-size: 50px;
+    color: white;
+    text-align: center;
+	font-family: calibri;
+}
+
+litext {
+    font-family: calibri;
+    font-size: 17px;
+	color: green;
+}
+
+introduction {
+	font-size: 20px;
+    color: lightblue;
+    text-align: center;
+	font-family: verdana;
+}
+
+li {
+	color: red;
+}
+
+
+hr{ 
+    height: 3px;
+    color: green;
+    background-color: green;
+    border: none;
+}
+
+div.scrollmenu {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+}
+
+div.scrollmenu a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+    background-color: #777;
+}
